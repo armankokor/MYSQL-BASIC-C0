@@ -14,7 +14,7 @@ SELECT score, rank FROM `jaar2016`
 
 
 opdracht3
-SELECT country, score rank FROM `jaar2016`
+SELECT country, score FROM `jaar2016`
 
 
 ..
