@@ -12,4 +12,9 @@ SELECT score, region FROM `jaar2015`
 SELECT score, rank FROM `jaar2016`
 -- Opdracht 7
 
+
+opdracht3
+SELECT country, score rank FROM `jaar2016`
+
+
 .
