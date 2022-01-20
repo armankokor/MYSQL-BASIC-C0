@@ -17,4 +17,4 @@ opdracht3
 SELECT country, score rank FROM `jaar2016`
 
 
-.
+..
